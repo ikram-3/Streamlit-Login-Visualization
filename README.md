@@ -40,7 +40,7 @@ pip install streamlit pandas matplotlib seaborn mysql-connector-python
 3. **Run the Application**:
    - Use the following command to run the Streamlit application:
      ```bash
-     streamlit run your_script_name.py
+     streamlit run streamlit-login.py
      ```
 
 ## Usage
